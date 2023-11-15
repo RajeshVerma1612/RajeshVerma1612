@@ -1,4 +1,4 @@
-[![MasterHead](https://images.unsplash.com/photo-1626968361222-291e74711449?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Y29kZXJ8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=1000&q=60)](https://rajeshverma1612.github.io/portfolio/)
+
 <h1 align="center">Hi 👋, I'm Rajesh Verma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right' alt="coding" width="400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47ecjl70qdfhlf37pgt6dlee7njco24wh712ekrwwf&ep=v1_gifs_search&rid=giphy.gif&ct=g">
