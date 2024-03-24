@@ -30,7 +30,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   <!-- Add other icons similarly -->
 </p>
-
+<div>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajeshverma1612&show_icons=true&locale=en&layout=compact" alt="rajeshverma1612" />
 </p>
@@ -38,6 +38,7 @@
 <p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=rajeshverma1612&show_icons=true&locale=en" alt="rajeshverma1612" />
 </p>
+</div>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshverma1612" alt="rajeshverma1612" />
