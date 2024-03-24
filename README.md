@@ -35,7 +35,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajeshverma1612&show_icons=true&locale=en&layout=compact" alt="rajeshverma1612" />
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=rajeshverma1612&show_icons=true&locale=en" alt="rajeshverma1612" />
 </p>
 
