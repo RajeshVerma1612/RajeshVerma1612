@@ -31,7 +31,7 @@
   <!-- Add other icons similarly -->
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajeshverma1612&show_icons=true&locale=en&layout=compact" alt="rajeshverma1612" />
 </p>
 
